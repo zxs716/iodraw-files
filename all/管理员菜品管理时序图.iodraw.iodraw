@@ -135,7 +135,7 @@
         <mxCell id="B81DJluK1SztgHkJLlzS-39" value="第三方支付系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B81DJluK1SztgHkJLlzS-40" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.561;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="B81DJluK1SztgHkJLlzS-37">
+        <mxCell id="B81DJluK1SztgHkJLlzS-40" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.561;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B81DJluK1SztgHkJLlzS-67" target="B81DJluK1SztgHkJLlzS-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="1071.3333740234375" as="sourcePoint" />
             <mxPoint x="690" y="190" as="targetPoint" />
@@ -236,8 +236,14 @@
         <mxCell id="B81DJluK1SztgHkJLlzS-64" value="向用户发送支付成功和订单确认信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1265" y="728" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="B81DJluK1SztgHkJLlzS-68" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.561;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="B81DJluK1SztgHkJLlzS-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="1071.3333740234375" as="sourcePoint" />
+            <mxPoint x="617" y="112" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-67" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="10" height="80" as="geometry" />
+          <mxGeometry x="620" y="178" width="10" height="282" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
