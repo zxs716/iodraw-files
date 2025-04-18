@@ -101,8 +101,8 @@
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="370" as="sourcePoint" />
-            <mxPoint x="610" y="370" as="targetPoint" />
+            <mxPoint x="90" y="290" as="sourcePoint" />
+            <mxPoint x="620" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -173,6 +173,9 @@
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-45" value="将添加信息提交至数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="218" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B81DJluK1SztgHkJLlzS-46" value="用户增删改购物车菜品信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="258" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
