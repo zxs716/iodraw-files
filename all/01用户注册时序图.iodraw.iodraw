@@ -49,7 +49,7 @@
         <mxCell id="MJKTHsMWjZioccyXvReA-44" value="请求查看菜品首页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="178" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MJKTHsMWjZioccyXvReA-45" value="菜品界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MJKTHsMWjZioccyXvReA-45" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MJKTHsMWjZioccyXvReA-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.467;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MJKTHsMWjZioccyXvReA-64" target="MJKTHsMWjZioccyXvReA-45">
