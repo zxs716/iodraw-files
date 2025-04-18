@@ -37,8 +37,8 @@
             <mxPoint x="330" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MJKTHsMWjZioccyXvReA-42" value="输入手机号/邮箱+密码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="138" width="140" height="30" as="geometry" />
+        <mxCell id="MJKTHsMWjZioccyXvReA-42" value="查看" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="138" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MJKTHsMWjZioccyXvReA-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -100,16 +100,6 @@
         </mxCell>
         <mxCell id="MJKTHsMWjZioccyXvReA-56" value="[输入的手机号/邮箱&lt;div&gt;，密码符合规范]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-50" y="253" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MJKTHsMWjZioccyXvReA-57" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.002;exitY=0.612;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MJKTHsMWjZioccyXvReA-55" target="MJKTHsMWjZioccyXvReA-55">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="165" y="550" as="sourcePoint" />
-            <mxPoint x="200" y="520" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="200" y="410" />
-              <mxPoint x="950" y="410" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="MJKTHsMWjZioccyXvReA-58" value="[else]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-45" y="428" width="50" height="30" as="geometry" />
