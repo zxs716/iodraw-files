@@ -226,6 +226,9 @@
             <mxPoint x="820" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="B81DJluK1SztgHkJLlzS-60" value="返回支付成功信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="830" y="658" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
