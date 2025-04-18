@@ -113,8 +113,8 @@
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1260" y="450" as="sourcePoint" />
-            <mxPoint x="1510" y="450" as="targetPoint" />
+            <mxPoint x="1260" y="520" as="sourcePoint" />
+            <mxPoint x="1510" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-32" value="存储参与者信息及参与活动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -122,8 +122,8 @@
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-33" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1510" y="490" as="sourcePoint" />
-            <mxPoint x="1260" y="490" as="targetPoint" />
+            <mxPoint x="1510" y="585" as="sourcePoint" />
+            <mxPoint x="1260" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-34" value="存储成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
