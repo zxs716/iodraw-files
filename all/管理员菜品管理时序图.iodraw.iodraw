@@ -126,8 +126,8 @@
             <mxPoint x="1260" y="554.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B81DJluK1SztgHkJLlzS-34" value="存储成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="540" width="70" height="30" as="geometry" />
+        <mxCell id="B81DJluK1SztgHkJLlzS-34" value="返回订单号给系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-35" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -200,6 +200,12 @@
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-52" value="创建订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="645" y="438" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B81DJluK1SztgHkJLlzS-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="350" as="sourcePoint" />
+            <mxPoint x="1190" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
