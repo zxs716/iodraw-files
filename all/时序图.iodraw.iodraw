@@ -96,7 +96,7 @@
           <mxGeometry x="145" y="318" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-30" value="选择" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="170" width="1000" height="480" as="geometry" />
+          <mxGeometry x="-60" y="170" width="1000" height="370" as="geometry" />
         </mxCell>
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-31" value="[输入的手机号/邮箱&lt;div&gt;，密码符合规范]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-60" y="243" width="130" height="40" as="geometry" />
