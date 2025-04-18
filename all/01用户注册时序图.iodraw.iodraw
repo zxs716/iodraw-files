@@ -132,6 +132,12 @@
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-37" value="重置密码框，重新输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="438" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wO3u_FW5NgYoFx8qKNm1-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="250" as="sourcePoint" />
+            <mxPoint x="830" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
