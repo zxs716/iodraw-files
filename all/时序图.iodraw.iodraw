@@ -7,7 +7,7 @@
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="20" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5YFd7kFeZKF1k2vPxbTb-8" value="在线点餐系统&lt;div&gt;注册界面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="5YFd7kFeZKF1k2vPxbTb-8" value="在线点餐系统&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-9" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
