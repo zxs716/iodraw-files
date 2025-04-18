@@ -101,7 +101,7 @@
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-31" value="[注册过且&lt;div&gt;输入的账号+&lt;span style=&quot;background-color: initial;&quot;&gt;密码&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;正确]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-50" y="233" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5YFd7kFeZKF1k2vPxbTb-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.002;exitY=0.612;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5YFd7kFeZKF1k2vPxbTb-30" target="5YFd7kFeZKF1k2vPxbTb-30" edge="1">
+        <mxCell id="5YFd7kFeZKF1k2vPxbTb-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.001;exitY=0.536;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5YFd7kFeZKF1k2vPxbTb-30" target="5YFd7kFeZKF1k2vPxbTb-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="155" y="540" as="sourcePoint" />
             <mxPoint x="190" y="510" as="targetPoint" />
