@@ -32,7 +32,7 @@
         <mxCell id="Y7NuCCtereQgxiezvYnL-8" value="+ processPayment(amount:doubler):&#xa;boolean&#xa;+sendNotification():void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Y7NuCCtereQgxiezvYnL-5">
           <mxGeometry y="60" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y7NuCCtereQgxiezvYnL-13" value="Payment" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Y7NuCCtereQgxiezvYnL-13" value="WechatFactory" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="-490" width="200" height="130" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -47,7 +47,7 @@
           <mxGeometry y="60" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y7NuCCtereQgxiezvYnL-17" value="Payment" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="-670" width="200" height="130" as="geometry">
+          <mxGeometry x="500" y="-490" width="200" height="130" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
