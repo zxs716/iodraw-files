@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-32" value="存储参与者信息及参与活动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="410" width="170" height="30" as="geometry" />
+          <mxGeometry x="1300" y="480" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-33" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -127,7 +127,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-34" value="存储成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="460" width="70" height="30" as="geometry" />
+          <mxGeometry x="1350" y="540" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-35" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
