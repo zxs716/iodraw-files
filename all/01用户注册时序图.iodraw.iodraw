@@ -107,12 +107,6 @@
         <mxCell id="MJKTHsMWjZioccyXvReA-60" value="输入的账号密码不和规范" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="418" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MJKTHsMWjZioccyXvReA-61" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="325" y="490" as="sourcePoint" />
-            <mxPoint x="90" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MJKTHsMWjZioccyXvReA-63" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.467;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MJKTHsMWjZioccyXvReA-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="335" y="1040" as="sourcePoint" />
@@ -145,6 +139,12 @@
         </mxCell>
         <mxCell id="MJKTHsMWjZioccyXvReA-72" value="显示结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="135" y="328" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MJKTHsMWjZioccyXvReA-73" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="448" as="sourcePoint" />
+            <mxPoint x="330" y="448" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
