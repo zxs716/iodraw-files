@@ -344,6 +344,12 @@
         <mxCell id="vzPAGn2emwKL9w3NKX7b-11" value="+ 注册（）&#xa;+ 登录（）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="vzPAGn2emwKL9w3NKX7b-8">
           <mxGeometry y="82" width="160" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="vzPAGn2emwKL9w3NKX7b-12" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vzPAGn2emwKL9w3NKX7b-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-190" y="68" as="sourcePoint" />
+            <mxPoint x="-30" y="68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
