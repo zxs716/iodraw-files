@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-18" value="请求注册" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="198" width="70" height="30" as="geometry" />
+          <mxGeometry x="415" y="158" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-19" value="注册界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="40" width="120" height="60" as="geometry" />
@@ -60,8 +60,8 @@
         </mxCell>
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="190" as="sourcePoint" />
-            <mxPoint x="690" y="140" as="targetPoint" />
+            <mxPoint x="570" y="280" as="sourcePoint" />
+            <mxPoint x="820" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
