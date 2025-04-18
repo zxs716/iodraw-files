@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="vCBUydziDH-jpLxMvsuv">
-    <mxGraphModel dx="2211" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1937" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,9 +66,6 @@
             <mxPoint x="620" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B81DJluK1SztgHkJLlzS-17" value="[else]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="850" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.467;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="B81DJluK1SztgHkJLlzS-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="335" y="1040" as="sourcePoint" />
@@ -128,12 +125,6 @@
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-34" value="返回订单号给系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1315" y="520" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="B81DJluK1SztgHkJLlzS-35" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="590" y="520" as="sourcePoint" />
-            <mxPoint x="340" y="520" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-36" value="返回操作成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="478" width="100" height="30" as="geometry" />
