@@ -98,15 +98,6 @@
         <mxCell id="MJKTHsMWjZioccyXvReA-58" value="[else]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-50" y="850" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MJKTHsMWjZioccyXvReA-59" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="577.5" y="458" as="sourcePoint" />
-            <mxPoint x="330" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MJKTHsMWjZioccyXvReA-60" value="输入的账号密码不和规范" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="418" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="MJKTHsMWjZioccyXvReA-63" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.467;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MJKTHsMWjZioccyXvReA-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="335" y="1040" as="sourcePoint" />
@@ -147,7 +138,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MJKTHsMWjZioccyXvReA-74" value="点击菜品所属区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="398" width="120" height="30" as="geometry" />
+          <mxGeometry x="130" y="418" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MJKTHsMWjZioccyXvReA-75" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="220" as="sourcePoint" />
+            <mxPoint x="590" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
