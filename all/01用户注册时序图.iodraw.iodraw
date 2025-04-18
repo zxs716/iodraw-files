@@ -148,7 +148,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WKtNxQxadM_i_Bvc41IB-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="570" y="190" width="10" height="80" as="geometry" />
+          <mxGeometry x="570" y="190" width="10" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="WKtNxQxadM_i_Bvc41IB-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
