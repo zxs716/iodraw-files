@@ -73,12 +73,6 @@
             <mxPoint x="580" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kgx3dFA9Qg4LLXsRclMN-16" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="325" y="370" as="sourcePoint" />
-            <mxPoint x="90" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kgx3dFA9Qg4LLXsRclMN-17" value="操作成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="665" y="258" width="70" height="30" as="geometry" />
         </mxCell>
@@ -124,9 +118,6 @@
             <mxPoint x="80" y="448" as="sourcePoint" />
             <mxPoint x="330" y="448" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="kgx3dFA9Qg4LLXsRclMN-31" value="点击菜品所属区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="418" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kgx3dFA9Qg4LLXsRclMN-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
