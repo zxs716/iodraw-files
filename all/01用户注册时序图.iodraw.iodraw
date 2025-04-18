@@ -146,8 +146,8 @@
             <mxPoint x="590" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MJKTHsMWjZioccyXvReA-76" value="请求查看" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="375" y="448" width="70" height="30" as="geometry" />
+        <mxCell id="MJKTHsMWjZioccyXvReA-76" value="请求查看所点击区域的菜品的详细信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="440" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
