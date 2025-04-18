@@ -120,8 +120,14 @@
             <mxPoint x="320" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5YFd7kFeZKF1k2vPxbTb-35" value="输入的账号密码不和规范，重置密码框" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="408" width="230" height="30" as="geometry" />
+        <mxCell id="5YFd7kFeZKF1k2vPxbTb-35" value="输入的账号密码不和规范" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="408" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5YFd7kFeZKF1k2vPxbTb-36" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="325" y="370" as="sourcePoint" />
+            <mxPoint x="90" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
