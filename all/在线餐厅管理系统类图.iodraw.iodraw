@@ -60,10 +60,13 @@
         <mxCell id="Y7NuCCtereQgxiezvYnL-20" value="+ processPayment(amount:doubler):&#xa;boolean&#xa;+sendNotification():void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Y7NuCCtereQgxiezvYnL-17">
           <mxGeometry y="60" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y7NuCCtereQgxiezvYnL-21" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Y7NuCCtereQgxiezvYnL-21" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.4;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Y7NuCCtereQgxiezvYnL-13">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="140" y="-690" as="sourcePoint" />
             <mxPoint x="270" y="-690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="-690" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y7NuCCtereQgxiezvYnL-22" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=1.022;entryY=1.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Y7NuCCtereQgxiezvYnL-4">
