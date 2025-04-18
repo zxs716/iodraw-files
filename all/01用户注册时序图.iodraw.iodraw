@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MJKTHsMWjZioccyXvReA-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MJKTHsMWjZioccyXvReA-35" target="MJKTHsMWjZioccyXvReA-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MJKTHsMWjZioccyXvReA-35" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="30" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="MJKTHsMWjZioccyXvReA-36" value="在线点餐系统&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="530" y="50" width="120" height="60" as="geometry" />
         </mxCell>
@@ -188,6 +182,9 @@
         </mxCell>
         <mxCell id="MJKTHsMWjZioccyXvReA-84" value="显示结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="155" y="590" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MJKTHsMWjZioccyXvReA-87" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="178" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
