@@ -45,7 +45,7 @@
         <mxCell id="B81DJluK1SztgHkJLlzS-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="210" as="sourcePoint" />
-            <mxPoint x="580" y="210" as="targetPoint" />
+            <mxPoint x="610" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-10" value="菜品界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -191,6 +191,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1050" y="650" as="sourcePoint" />
             <mxPoint x="1040" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B81DJluK1SztgHkJLlzS-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="220" as="sourcePoint" />
+            <mxPoint x="620" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
