@@ -190,7 +190,13 @@
           <mxGeometry x="635" y="355" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-50" value="提交购物车订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="85" y="408" width="110" height="30" as="geometry" />
+          <mxGeometry x="140" y="408" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B81DJluK1SztgHkJLlzS-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="450" as="sourcePoint" />
+            <mxPoint x="630" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
