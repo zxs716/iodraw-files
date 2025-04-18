@@ -37,8 +37,8 @@
             <mxPoint x="320" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5YFd7kFeZKF1k2vPxbTb-16" value="输入手机号/邮箱+密码，" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="115" y="128" width="150" height="30" as="geometry" />
+        <mxCell id="5YFd7kFeZKF1k2vPxbTb-16" value="输入手机号/邮箱+密码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="128" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-17" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
