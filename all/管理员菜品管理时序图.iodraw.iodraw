@@ -189,8 +189,8 @@
         <mxCell id="B81DJluK1SztgHkJLlzS-49" value="实时计算并显示商品总价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="635" y="355" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B81DJluK1SztgHkJLlzS-50" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="115" y="408" width="50" height="30" as="geometry" />
+        <mxCell id="B81DJluK1SztgHkJLlzS-50" value="提交购物车订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="408" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
