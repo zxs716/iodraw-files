@@ -101,12 +101,12 @@
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-31" value="[输入的手机号/邮箱&lt;div&gt;，密码符合规范]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-60" y="243" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5YFd7kFeZKF1k2vPxbTb-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=-0.003;exitY=0.567;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5YFd7kFeZKF1k2vPxbTb-30">
+        <mxCell id="5YFd7kFeZKF1k2vPxbTb-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=-0.003;exitY=0.487;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5YFd7kFeZKF1k2vPxbTb-30" target="5YFd7kFeZKF1k2vPxbTb-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="155" y="540" as="sourcePoint" />
             <mxPoint x="190" y="510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="185" y="510" />
+              <mxPoint x="190" y="400" />
               <mxPoint x="940" y="400" />
             </Array>
           </mxGeometry>
