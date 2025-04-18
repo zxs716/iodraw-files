@@ -106,14 +106,11 @@
         <mxCell id="Y7NuCCtereQgxiezvYnL-31" value="+ processPayment(amount:doubler):&#xa;boolean&#xa;+sendNotification():void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Y7NuCCtereQgxiezvYnL-28">
           <mxGeometry y="60" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y7NuCCtereQgxiezvYnL-32" value="name" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
+        <mxCell id="Y7NuCCtereQgxiezvYnL-34" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="350" y="-380" as="sourcePoint" />
             <mxPoint x="510" y="-380" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Y7NuCCtereQgxiezvYnL-33" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="Y7NuCCtereQgxiezvYnL-32">
-          <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
