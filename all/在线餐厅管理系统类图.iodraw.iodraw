@@ -330,7 +330,7 @@
             <mxPoint x="160" y="-360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzPAGn2emwKL9w3NKX7b-8" value="&lt;&lt;boundary&gt;&gt;&#xa;用户注册/登录界面" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vzPAGn2emwKL9w3NKX7b-8" value="&lt;&lt;boundary&gt;&gt;&#xa;支付网关接口" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-207.72" y="130" width="160" height="150" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
