@@ -8,7 +8,7 @@
           <mxGeometry x="70" y="30" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-2" value="在线点餐系统&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="1150" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-3" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="50" width="120" height="60" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry x="750" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-39" value="第三方支付系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
