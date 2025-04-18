@@ -245,8 +245,8 @@
             <mxPoint x="1260" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B81DJluK1SztgHkJLlzS-64" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="728" width="50" height="30" as="geometry" />
+        <mxCell id="B81DJluK1SztgHkJLlzS-64" value="向用户发送支付成功和订单确认信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="728" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
