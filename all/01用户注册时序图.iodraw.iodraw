@@ -179,9 +179,12 @@
         </mxCell>
         <mxCell id="MJKTHsMWjZioccyXvReA-83" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="335" y="380" as="sourcePoint" />
-            <mxPoint x="100" y="380" as="targetPoint" />
+            <mxPoint x="330" y="630" as="sourcePoint" />
+            <mxPoint x="80" y="630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MJKTHsMWjZioccyXvReA-84" value="显示结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="590" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
