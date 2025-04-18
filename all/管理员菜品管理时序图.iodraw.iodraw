@@ -242,11 +242,11 @@
         <mxCell id="B81DJluK1SztgHkJLlzS-63" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1510" y="770" as="sourcePoint" />
-            <mxPoint x="1260" y="770" as="targetPoint" />
+            <mxPoint x="90" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-64" value="向用户发送支付成功和订单确认信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="728" width="220" height="30" as="geometry" />
+          <mxGeometry x="1265" y="728" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
