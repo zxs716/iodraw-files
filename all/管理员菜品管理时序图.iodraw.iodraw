@@ -183,8 +183,8 @@
             <mxPoint x="1500" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B81DJluK1SztgHkJLlzS-48" value="将添加信息提交至数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="300" width="160" height="30" as="geometry" />
+        <mxCell id="B81DJluK1SztgHkJLlzS-48" value="将增删改信息提交至数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="300" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
