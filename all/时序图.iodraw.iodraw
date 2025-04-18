@@ -117,8 +117,11 @@
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-34" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="567.5" y="448" as="sourcePoint" />
-            <mxPoint x="332.5" y="448" as="targetPoint" />
+            <mxPoint x="320" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5YFd7kFeZKF1k2vPxbTb-35" value="输入的账号密码不和规范，重置密码框" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="408" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
