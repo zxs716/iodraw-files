@@ -126,9 +126,6 @@
         <mxCell id="B81DJluK1SztgHkJLlzS-34" value="返回订单号给系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1315" y="520" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B81DJluK1SztgHkJLlzS-36" value="返回操作成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="478" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-37" value="购物车界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="50" width="120" height="60" as="geometry" />
         </mxCell>
@@ -142,6 +139,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="1071.3333740234375" as="sourcePoint" />
             <mxPoint x="690" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B81DJluK1SztgHkJLlzS-65" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B81DJluK1SztgHkJLlzS-40">
+          <mxGeometry x="0.8484" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.589;entryY=0.961;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="B81DJluK1SztgHkJLlzS-38">
