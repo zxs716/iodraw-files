@@ -46,8 +46,8 @@
             <mxPoint x="580" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kgx3dFA9Qg4LLXsRclMN-10" value="请求查看菜品首页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="178" width="120" height="30" as="geometry" />
+        <mxCell id="kgx3dFA9Qg4LLXsRclMN-10" value="请求增删改菜品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="178" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kgx3dFA9Qg4LLXsRclMN-11" value="后台界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="50" width="120" height="60" as="geometry" />
