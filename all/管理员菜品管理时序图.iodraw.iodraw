@@ -239,6 +239,12 @@
         <mxCell id="B81DJluK1SztgHkJLlzS-62" value="更新数据库中订单状态为“已支付”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1260" y="688" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="B81DJluK1SztgHkJLlzS-63" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1520" y="564.52" as="sourcePoint" />
+            <mxPoint x="1270" y="564.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
