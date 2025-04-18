@@ -45,7 +45,7 @@
         <mxCell id="B81DJluK1SztgHkJLlzS-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="210" as="sourcePoint" />
-            <mxPoint x="610" y="210" as="targetPoint" />
+            <mxPoint x="620" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-10" value="菜品界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -187,7 +187,7 @@
           <mxGeometry x="635" y="300" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-49" value="实时计算并显示商品总价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="358" width="160" height="30" as="geometry" />
+          <mxGeometry x="635" y="355" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
