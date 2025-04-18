@@ -148,6 +148,12 @@
         <mxCell id="kgx3dFA9Qg4LLXsRclMN-52" value="存储参与者信息及参与活动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="400" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kgx3dFA9Qg4LLXsRclMN-53" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="840" y="300" as="sourcePoint" />
+            <mxPoint x="590" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
