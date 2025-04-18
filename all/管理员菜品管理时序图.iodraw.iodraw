@@ -66,13 +66,6 @@
             <mxPoint x="1250" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B81DJluK1SztgHkJLlzS-16" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="580" y="330" as="sourcePoint" />
-            <mxPoint x="330" y="330" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-17" value="[else]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-50" y="850" width="50" height="30" as="geometry" />
         </mxCell>
@@ -102,9 +95,6 @@
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1500" y="230" width="10" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="B81DJluK1SztgHkJLlzS-25" value="显示活动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="405" y="288" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-26" value="查看活动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="145" y="138" width="70" height="30" as="geometry" />
