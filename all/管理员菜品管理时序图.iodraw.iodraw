@@ -82,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1250" y="210" width="10" height="340" as="geometry" />
+          <mxGeometry x="1250" y="210" width="10" height="540" as="geometry" />
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="B81DJluK1SztgHkJLlzS-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -249,7 +249,7 @@
           <mxGeometry x="805" y="590" width="10" height="130" as="geometry" />
         </mxCell>
         <mxCell id="B81DJluK1SztgHkJLlzS-70" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="770" y="400" width="10" height="80" as="geometry" />
+          <mxGeometry x="1040" y="620" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
