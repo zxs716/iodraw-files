@@ -122,8 +122,8 @@
         </mxCell>
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-36" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="315" y="510" as="sourcePoint" />
-            <mxPoint x="80" y="510" as="targetPoint" />
+            <mxPoint x="315" y="560" as="sourcePoint" />
+            <mxPoint x="80" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-37" value="重置密码框，重新输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -146,6 +146,9 @@
         </mxCell>
         <mxCell id="wO3u_FW5NgYoFx8qKNm1-4" value="匹配失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="438" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wO3u_FW5NgYoFx8qKNm1-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="488" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
