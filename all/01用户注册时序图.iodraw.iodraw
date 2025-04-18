@@ -157,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wO3u_FW5NgYoFx8qKNm1-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="310" y="143" width="10" height="457" as="geometry" />
+          <mxGeometry x="320" y="143" width="10" height="457" as="geometry" />
         </mxCell>
         <mxCell id="wO3u_FW5NgYoFx8qKNm1-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="550" y="310" width="30" height="80" as="geometry" />
