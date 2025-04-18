@@ -236,8 +236,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B81DJluK1SztgHkJLlzS-62" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1335" y="688" width="50" height="30" as="geometry" />
+        <mxCell id="B81DJluK1SztgHkJLlzS-62" value="更新数据库中订单状态为“已支付”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="688" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
