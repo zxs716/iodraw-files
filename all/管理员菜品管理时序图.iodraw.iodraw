@@ -186,6 +186,9 @@
         <mxCell id="B81DJluK1SztgHkJLlzS-48" value="将增删改信息提交至数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="635" y="300" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="B81DJluK1SztgHkJLlzS-49" value="实时计算并显示商品总价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="358" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
