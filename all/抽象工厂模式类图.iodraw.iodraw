@@ -157,6 +157,9 @@
         <mxCell id="sVjEzyKEt1WeC6nHixEr-44" value="支付接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="648" y="-413" width="66" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="sVjEzyKEt1WeC6nHixEr-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="193" y="-257" width="40" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
