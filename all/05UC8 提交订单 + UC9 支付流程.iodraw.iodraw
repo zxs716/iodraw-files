@@ -27,10 +27,10 @@
         </mxCell>
         <mxCell id="47_OZg_B2F10djEoblvZ-8" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.4605" y="-180" width="80" relative="1" as="geometry">
-            <mxPoint x="40" y="439.58" as="sourcePoint" />
-            <mxPoint x="299.5000000000002" y="439.58" as="targetPoint" />
+            <mxPoint x="40" y="370" as="sourcePoint" />
+            <mxPoint x="299.5000000000002" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="439.58" />
+              <mxPoint x="170" y="370" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -55,15 +55,6 @@
               <mxPoint x="208.39999999999998" y="622" />
             </Array>
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="47_OZg_B2F10djEoblvZ-12" value="显示结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="47_OZg_B2F10djEoblvZ-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="295" y="370" as="sourcePoint" />
-            <mxPoint x="60" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="210" y="370" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="47_OZg_B2F10djEoblvZ-13" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=-0.002;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="47_OZg_B2F10djEoblvZ-6" edge="1" target="vSmL9gGQOrScNIRvaIZG-13">
