@@ -53,20 +53,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EL0xKNSro-997KzHAm8l-1" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="EL0xKNSro-997KzHAm8l-2">
+        <mxCell id="EL0xKNSro-997KzHAm8l-1" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="260" as="sourcePoint" />
-            <mxPoint x="480" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EL0xKNSro-997KzHAm8l-3" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="EL0xKNSro-997KzHAm8l-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="260" as="sourcePoint" />
-            <mxPoint x="480" y="260" as="targetPoint" />
+            <mxPoint x="705" y="258" as="sourcePoint" />
+            <mxPoint x="465" y="258" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EL0xKNSro-997KzHAm8l-2" value="操作成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="230" width="70" height="30" as="geometry" />
+          <mxGeometry x="550" y="228" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
