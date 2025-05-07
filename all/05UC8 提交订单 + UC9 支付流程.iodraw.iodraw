@@ -153,6 +153,9 @@
         <mxCell id="vSmL9gGQOrScNIRvaIZG-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vSmL9gGQOrScNIRvaIZG-4">
           <mxGeometry x="45" y="80" width="10" height="462" as="geometry" />
         </mxCell>
+        <mxCell id="vSmL9gGQOrScNIRvaIZG-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="178" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
