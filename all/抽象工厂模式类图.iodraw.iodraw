@@ -53,7 +53,7 @@
           <mxGeometry y="60" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="sVjEzyKEt1WeC6nHixEr-17" value="PaymentFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="469" y="-37" width="160" height="112" as="geometry" />
+          <mxGeometry x="503" y="-36" width="160" height="112" as="geometry" />
         </mxCell>
         <mxCell id="sVjEzyKEt1WeC6nHixEr-18" value="&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sVjEzyKEt1WeC6nHixEr-17">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -144,8 +144,8 @@
         </mxCell>
         <mxCell id="sVjEzyKEt1WeC6nHixEr-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.382;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="-104" as="sourcePoint" />
-            <mxPoint x="218" y="-36" as="targetPoint" />
+            <mxPoint x="553" y="-107" as="sourcePoint" />
+            <mxPoint x="551" y="-39" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
