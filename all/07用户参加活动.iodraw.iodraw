@@ -100,7 +100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LpwW5qXaEt8gaFz2CYJv-17" value="给出菜品的详细信息和评价" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-0.05" y="-10" relative="1" as="geometry">
+          <mxGeometry x="-0.025" y="-68" relative="1" as="geometry">
             <mxPoint x="468" y="608" as="sourcePoint" />
             <mxPoint x="308" y="608" as="targetPoint" />
             <Array as="points">
