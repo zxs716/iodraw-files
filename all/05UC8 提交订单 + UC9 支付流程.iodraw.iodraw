@@ -165,7 +165,7 @@
         <mxCell id="vSmL9gGQOrScNIRvaIZG-9" value="用户增删改查购物车菜品信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="208" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vSmL9gGQOrScNIRvaIZG-10" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="vSmL9gGQOrScNIRvaIZG-10" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="47_OZg_B2F10djEoblvZ-7">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="470" y="270" as="sourcePoint" />
             <mxPoint x="980" y="270" as="targetPoint" />
