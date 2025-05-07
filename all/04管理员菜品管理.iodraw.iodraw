@@ -145,6 +145,9 @@
             <mxPoint x="480" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EL0xKNSro-997KzHAm8l-2" value="操作成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="228" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
