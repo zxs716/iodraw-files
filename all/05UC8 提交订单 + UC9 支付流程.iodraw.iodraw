@@ -66,7 +66,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="47_OZg_B2F10djEoblvZ-13" value="整合菜品信息&lt;div&gt;根据分类给出菜品简述信息&lt;/div&gt;&lt;div&gt;菜品图片+价格+销量&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="47_OZg_B2F10djEoblvZ-5" edge="1">
+        <mxCell id="47_OZg_B2F10djEoblvZ-13" value="整合菜品信息&lt;div&gt;根据分类给出菜品简述信息&lt;/div&gt;&lt;div&gt;菜品图片+价格+销量&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="47_OZg_B2F10djEoblvZ-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="310" as="sourcePoint" />
             <mxPoint x="300" y="310" as="targetPoint" />
