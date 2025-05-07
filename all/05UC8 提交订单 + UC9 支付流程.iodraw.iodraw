@@ -178,10 +178,10 @@
         </mxCell>
         <mxCell id="vSmL9gGQOrScNIRvaIZG-18" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0213" y="70" relative="1" as="geometry">
-            <mxPoint x="707.5" y="580" as="sourcePoint" />
-            <mxPoint x="472.5" y="580" as="targetPoint" />
+            <mxPoint x="990" y="490" as="sourcePoint" />
+            <mxPoint x="872.5" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="622.5" y="580" />
+              <mxPoint x="1022.5" y="490" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
