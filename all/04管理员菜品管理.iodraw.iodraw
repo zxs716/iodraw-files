@@ -35,7 +35,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-9" value="找到菜品数据" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="TSPQURcAyzKtk6zALZ9D-6" edge="1">
+        <mxCell id="TSPQURcAyzKtk6zALZ9D-9" value="更新菜品信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="TSPQURcAyzKtk6zALZ9D-6" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="470" y="220" as="sourcePoint" />
             <mxPoint x="550" y="220" as="targetPoint" />
