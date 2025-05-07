@@ -42,16 +42,6 @@
             <mxPoint x="390" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpwW5qXaEt8gaFz2CYJv-11" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="0.4873" y="140" relative="1" as="geometry">
-            <mxPoint x="303.4" y="632" as="sourcePoint" />
-            <mxPoint x="47.998571428571445" y="632" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="218.39999999999998" y="632" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LpwW5qXaEt8gaFz2CYJv-12" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1" source="LpwW5qXaEt8gaFz2CYJv-7">
           <mxGeometry x="-0.4912" relative="1" as="geometry">
             <mxPoint x="725.5" y="490" as="sourcePoint" />
@@ -122,9 +112,6 @@
         <mxCell id="LpwW5qXaEt8gaFz2CYJv-19" value="选择参加活动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="126" y="320" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LpwW5qXaEt8gaFz2CYJv-20" value="显示结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="141" y="602" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="LpwW5qXaEt8gaFz2CYJv-21" value="记录用户参与活动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="370" width="120" height="30" as="geometry" />
         </mxCell>
@@ -144,7 +131,7 @@
           <mxGeometry x="555" y="458" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OuqrxKQaybof3YjLNSuo-9" value="返回操作成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="478" width="100" height="30" as="geometry" />
+          <mxGeometry x="340" y="500" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
