@@ -94,7 +94,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="47_OZg_B2F10djEoblvZ-18" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="47_OZg_B2F10djEoblvZ-18" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1" target="vSmL9gGQOrScNIRvaIZG-21">
           <mxGeometry x="-0.0213" y="70" relative="1" as="geometry">
             <mxPoint x="755" y="610" as="sourcePoint" />
             <mxPoint x="520" y="610" as="targetPoint" />
@@ -189,6 +189,12 @@
         </mxCell>
         <mxCell id="vSmL9gGQOrScNIRvaIZG-22" value="跳转至支付界面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="735" y="488" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vSmL9gGQOrScNIRvaIZG-23" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="490" y="690" as="sourcePoint" />
+            <mxPoint x="570" y="690" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
