@@ -29,14 +29,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AmDvdV-an56wpnW96T3m-30" value="获取活动信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="AmDvdV-an56wpnW96T3m-27">
+        <mxCell id="AmDvdV-an56wpnW96T3m-30" value="保存活动信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="AmDvdV-an56wpnW96T3m-27">
           <mxGeometry x="0.0856" y="10" width="80" relative="1" as="geometry">
             <mxPoint x="480" y="230" as="sourcePoint" />
             <mxPoint x="560" y="230" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AmDvdV-an56wpnW96T3m-31" value="请求活动列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="AmDvdV-an56wpnW96T3m-25">
+        <mxCell id="AmDvdV-an56wpnW96T3m-31" value="提交活动列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="AmDvdV-an56wpnW96T3m-25">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="320" y="190" as="sourcePoint" />
             <mxPoint x="400" y="190" as="targetPoint" />
