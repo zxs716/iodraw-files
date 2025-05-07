@@ -136,8 +136,8 @@
         <mxCell id="OuqrxKQaybof3YjLNSuo-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="OuqrxKQaybof3YjLNSuo-2">
           <mxGeometry x="15" y="40" width="10" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="OuqrxKQaybof3YjLNSuo-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545" y="228" width="50" height="30" as="geometry" />
+        <mxCell id="OuqrxKQaybof3YjLNSuo-6" value="返回活动列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="228" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
