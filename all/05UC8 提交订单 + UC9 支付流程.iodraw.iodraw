@@ -96,10 +96,10 @@
         </mxCell>
         <mxCell id="47_OZg_B2F10djEoblvZ-18" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0213" y="70" relative="1" as="geometry">
-            <mxPoint x="865" y="554.5" as="sourcePoint" />
-            <mxPoint x="630" y="554.5" as="targetPoint" />
+            <mxPoint x="755" y="610" as="sourcePoint" />
+            <mxPoint x="520" y="610" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="554.5" />
+              <mxPoint x="670" y="610" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -126,7 +126,7 @@
           <mxGeometry x="700" y="80" width="100" height="710" as="geometry" />
         </mxCell>
         <mxCell id="vSmL9gGQOrScNIRvaIZG-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vSmL9gGQOrScNIRvaIZG-4">
-          <mxGeometry x="45" y="360" width="10" height="182" as="geometry" />
+          <mxGeometry x="45" y="480" width="10" height="62" as="geometry" />
         </mxCell>
         <mxCell id="vSmL9gGQOrScNIRvaIZG-7" value="将添加信息提交到数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="178" width="160" height="30" as="geometry" />
