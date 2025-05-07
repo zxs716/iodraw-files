@@ -25,8 +25,8 @@
         <mxCell id="Z1v-yIIA0KOZgj2gGBPi-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Z1v-yIIA0KOZgj2gGBPi-10">
           <mxGeometry x="45" y="120" width="10" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="Z1v-yIIA0KOZgj2gGBPi-14" value="用户登录之后，通过界面控制类转到菜品界面" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.0019" y="-300" width="80" relative="1" as="geometry">
+        <mxCell id="Z1v-yIIA0KOZgj2gGBPi-14" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.4605" y="-180" width="80" relative="1" as="geometry">
             <mxPoint x="40" y="400" as="sourcePoint" />
             <mxPoint x="299.5000000000002" y="400" as="targetPoint" />
             <mxPoint as="offset" />
