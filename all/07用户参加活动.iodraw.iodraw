@@ -99,12 +99,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpwW5qXaEt8gaFz2CYJv-17" value="给出菜品的详细信息和评价" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="LpwW5qXaEt8gaFz2CYJv-17" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.025" y="-68" relative="1" as="geometry">
-            <mxPoint x="468" y="608" as="sourcePoint" />
-            <mxPoint x="308" y="608" as="targetPoint" />
+            <mxPoint x="468" y="530" as="sourcePoint" />
+            <mxPoint x="308" y="530" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="418.5" y="608" />
+              <mxPoint x="418.5" y="530" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -142,6 +142,9 @@
         </mxCell>
         <mxCell id="OuqrxKQaybof3YjLNSuo-8" value="存储成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="555" y="458" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OuqrxKQaybof3YjLNSuo-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="478" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
