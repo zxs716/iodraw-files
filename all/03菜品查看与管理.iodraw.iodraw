@@ -82,22 +82,31 @@
         </mxCell>
         <mxCell id="Z1v-yIIA0KOZgj2gGBPi-25" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.4605" y="-180" width="80" relative="1" as="geometry">
-            <mxPoint x="50" y="449.58" as="sourcePoint" />
-            <mxPoint x="309.5000000000002" y="449.58" as="targetPoint" />
+            <mxPoint x="470" y="549" as="sourcePoint" />
+            <mxPoint x="729.5000000000002" y="549" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="449.58" />
+              <mxPoint x="600" y="549" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z1v-yIIA0KOZgj2gGBPi-26" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.4605" y="-180" width="80" relative="1" as="geometry">
-            <mxPoint x="60" y="459.58" as="sourcePoint" />
-            <mxPoint x="319.5000000000002" y="459.58" as="targetPoint" />
+            <mxPoint x="280" y="480" as="sourcePoint" />
+            <mxPoint x="539.5000000000002" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="459.58" />
+              <mxPoint x="410" y="480" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1v-yIIA0KOZgj2gGBPi-27" value="返回菜品信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="270" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
