@@ -41,7 +41,7 @@
             <mxPoint x="540" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="47_OZg_B2F10djEoblvZ-10" value="请求查看菜品首页" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="vSmL9gGQOrScNIRvaIZG-1" edge="1">
+        <mxCell id="47_OZg_B2F10djEoblvZ-10" value="添加菜品到购物车" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="vSmL9gGQOrScNIRvaIZG-1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="300" y="170" as="sourcePoint" />
             <mxPoint x="380" y="170" as="targetPoint" />
@@ -139,10 +139,10 @@
           <mxGeometry x="530" y="540" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vSmL9gGQOrScNIRvaIZG-1" value="购物车" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
-          <mxGeometry x="450" y="80" width="40" height="300" as="geometry" />
+          <mxGeometry x="450" y="80" width="40" height="480" as="geometry" />
         </mxCell>
         <mxCell id="vSmL9gGQOrScNIRvaIZG-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vSmL9gGQOrScNIRvaIZG-1">
-          <mxGeometry x="15" y="70" width="10" height="80" as="geometry" />
+          <mxGeometry x="15" y="70" width="10" height="410" as="geometry" />
         </mxCell>
         <mxCell id="vSmL9gGQOrScNIRvaIZG-2" value="支付" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
           <mxGeometry x="590" y="80" width="40" height="300" as="geometry" />
