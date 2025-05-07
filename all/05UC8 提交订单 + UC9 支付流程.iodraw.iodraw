@@ -84,18 +84,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="47_OZg_B2F10djEoblvZ-16" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="47_OZg_B2F10djEoblvZ-5" edge="1">
-          <mxGeometry x="-0.4605" y="-180" width="80" relative="1" as="geometry">
-            <mxPoint x="310" y="480" as="sourcePoint" />
-            <mxPoint x="539.5000000000002" y="480" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="360" y="480" />
-              <mxPoint x="410" y="480" />
-              <mxPoint x="720" y="480" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="47_OZg_B2F10djEoblvZ-17" value="给出菜品的详细信息和评价" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.05" y="-10" relative="1" as="geometry">
             <mxPoint x="458" y="598" as="sourcePoint" />
@@ -172,6 +160,18 @@
         </mxCell>
         <mxCell id="vSmL9gGQOrScNIRvaIZG-15" value="创建订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="358" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vSmL9gGQOrScNIRvaIZG-16" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.4605" y="-180" width="80" relative="1" as="geometry">
+            <mxPoint x="490" y="400" as="sourcePoint" />
+            <mxPoint x="760" y="401" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="400" />
+              <mxPoint x="660" y="401" />
+              <mxPoint x="690" y="401" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
