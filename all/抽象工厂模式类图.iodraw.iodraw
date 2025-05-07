@@ -88,6 +88,15 @@
         <mxCell id="sVjEzyKEt1WeC6nHixEr-28" value="+createPayment():Payment&lt;div&gt;+createRefund():Refund&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sVjEzyKEt1WeC6nHixEr-25">
           <mxGeometry y="60" width="160" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="sVjEzyKEt1WeC6nHixEr-29" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="336" y="-153" as="sourcePoint" />
+            <mxPoint x="496" y="-153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVjEzyKEt1WeC6nHixEr-30" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="sVjEzyKEt1WeC6nHixEr-29">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
