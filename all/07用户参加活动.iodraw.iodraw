@@ -69,7 +69,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpwW5qXaEt8gaFz2CYJv-14" value="用户登录之后，通过界面控制类转到菜品界面" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="LpwW5qXaEt8gaFz2CYJv-14" value="查看活动" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="52" y="157" as="sourcePoint" />
             <mxPoint x="312" y="157" as="targetPoint" />
@@ -136,7 +136,7 @@
           <mxGeometry x="280" y="90" width="40" height="590" as="geometry" />
         </mxCell>
         <mxCell id="OuqrxKQaybof3YjLNSuo-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="OuqrxKQaybof3YjLNSuo-2">
-          <mxGeometry x="15" y="40" width="10" height="80" as="geometry" />
+          <mxGeometry x="15" y="40" width="10" height="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
