@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z1v-yIIA0KOZgj2gGBPi-7" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="30" y="80" width="20" height="300" as="geometry" />
+          <mxGeometry x="30" y="80" width="20" height="720" as="geometry" />
         </mxCell>
         <mxCell id="Z1v-yIIA0KOZgj2gGBPi-8" value="界面控制" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
           <mxGeometry x="260" y="80" width="80" height="710" as="geometry" />
@@ -53,7 +53,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z1v-yIIA0KOZgj2gGBPi-22" value="显示结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Z1v-yIIA0KOZgj2gGBPi-22" value="显示结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="Z1v-yIIA0KOZgj2gGBPi-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="295" y="370" as="sourcePoint" />
             <mxPoint x="60" y="370" as="targetPoint" />
