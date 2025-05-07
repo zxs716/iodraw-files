@@ -69,7 +69,7 @@
         <mxCell id="47_OZg_B2F10djEoblvZ-13" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="47_OZg_B2F10djEoblvZ-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="310" as="sourcePoint" />
-            <mxPoint x="300" y="310" as="targetPoint" />
+            <mxPoint x="480" y="320" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="310" />
             </Array>
@@ -172,7 +172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vSmL9gGQOrScNIRvaIZG-11" value="将增删改查内容添加至数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="238" width="180" height="30" as="geometry" />
+          <mxGeometry x="470" y="238" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vSmL9gGQOrScNIRvaIZG-13" value="实时计算并显示商品总价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="278" width="160" height="30" as="geometry" />
