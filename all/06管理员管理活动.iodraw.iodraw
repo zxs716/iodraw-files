@@ -1,71 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="sGDOVCTyuPacQN69qLVY">
-    <mxGraphModel dx="1213" dy="674" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="CWtAbEBOFLU0VFdvszrT" name="第 1 页">
+    <mxGraphModel dx="1213" dy="674" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AmDvdV-an56wpnW96T3m-24" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="50" y="100" width="20" height="720" as="geometry" />
-        </mxCell>
-        <mxCell id="AmDvdV-an56wpnW96T3m-25" value="界面控制接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
-          <mxGeometry x="430" y="100" width="100" height="710" as="geometry" />
-        </mxCell>
-        <mxCell id="AmDvdV-an56wpnW96T3m-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="AmDvdV-an56wpnW96T3m-25">
-          <mxGeometry x="45" y="80" width="10" height="159" as="geometry" />
-        </mxCell>
-        <mxCell id="AmDvdV-an56wpnW96T3m-27" value="数据库接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
-          <mxGeometry x="670" y="100" width="100" height="700" as="geometry" />
-        </mxCell>
-        <mxCell id="AmDvdV-an56wpnW96T3m-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="AmDvdV-an56wpnW96T3m-27">
-          <mxGeometry x="45" y="120" width="10" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="AmDvdV-an56wpnW96T3m-30" value="保存活动信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="AmDvdV-an56wpnW96T3m-27">
-          <mxGeometry x="0.0856" y="10" width="80" relative="1" as="geometry">
-            <mxPoint x="480" y="230" as="sourcePoint" />
-            <mxPoint x="560" y="230" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AmDvdV-an56wpnW96T3m-31" value="提交活动列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="AmDvdV-an56wpnW96T3m-25">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="320" y="190" as="sourcePoint" />
-            <mxPoint x="400" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AmDvdV-an56wpnW96T3m-33" value="操作成功提示" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="AmDvdV-an56wpnW96T3m-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="330" as="sourcePoint" />
-            <mxPoint x="320" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="430" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AmDvdV-an56wpnW96T3m-34" value="增删改查活动" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="62" y="167" as="sourcePoint" />
-            <mxPoint x="322" y="167" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AmDvdV-an56wpnW96T3m-38" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.0213" y="70" relative="1" as="geometry">
-            <mxPoint x="717.5" y="280" as="sourcePoint" />
-            <mxPoint x="482.5" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="632.5" y="280" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AmDvdV-an56wpnW96T3m-42" value="活动" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
-          <mxGeometry x="290" y="100" width="40" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="AmDvdV-an56wpnW96T3m-43" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="AmDvdV-an56wpnW96T3m-42">
-          <mxGeometry x="15" y="40" width="10" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="AmDvdV-an56wpnW96T3m-44" value="操作成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="557" y="252" width="66" height="26" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
