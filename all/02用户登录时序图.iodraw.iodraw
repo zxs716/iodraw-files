@@ -162,7 +162,7 @@
         <mxCell id="5me8hHayuA037FXgT1n6-3" value="数据库接口" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="764" y="31" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5me8hHayuA037FXgT1n6-4" value="Boundary Object" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5me8hHayuA037FXgT1n6-4" value="密码验证接口" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="23" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
