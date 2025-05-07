@@ -171,8 +171,8 @@
             <mxPoint x="980" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vSmL9gGQOrScNIRvaIZG-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="238" width="50" height="30" as="geometry" />
+        <mxCell id="vSmL9gGQOrScNIRvaIZG-11" value="将增删改查内容添加至数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="238" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
