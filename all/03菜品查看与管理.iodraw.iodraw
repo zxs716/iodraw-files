@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z1v-yIIA0KOZgj2gGBPi-5" value="数据库接口" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="70" width="100" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Z1v-yIIA0KOZgj2gGBPi-7" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="30" y="80" width="20" height="300" as="geometry" />
         </mxCell>
@@ -17,7 +14,7 @@
           <mxGeometry x="280" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Z1v-yIIA0KOZgj2gGBPi-10" value="界面控制接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
-          <mxGeometry x="290" y="90" width="100" height="300" as="geometry" />
+          <mxGeometry x="450" y="80" width="100" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
