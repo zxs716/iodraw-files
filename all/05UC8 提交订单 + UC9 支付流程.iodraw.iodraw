@@ -16,6 +16,9 @@
         <mxCell id="47_OZg_B2F10djEoblvZ-4" value="界面控制接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" parent="1" vertex="1">
           <mxGeometry x="820" y="95" width="100" height="710" as="geometry" />
         </mxCell>
+        <mxCell id="vSmL9gGQOrScNIRvaIZG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="47_OZg_B2F10djEoblvZ-4" source="47_OZg_B2F10djEoblvZ-5" target="47_OZg_B2F10djEoblvZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="47_OZg_B2F10djEoblvZ-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="47_OZg_B2F10djEoblvZ-4" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="462" as="geometry" />
         </mxCell>
