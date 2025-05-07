@@ -89,7 +89,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpwW5qXaEt8gaFz2CYJv-16" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="LpwW5qXaEt8gaFz2CYJv-16" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1" source="OuqrxKQaybof3YjLNSuo-2">
           <mxGeometry x="-0.4605" y="-180" width="80" relative="1" as="geometry">
             <mxPoint x="317.5" y="400" as="sourcePoint" />
             <mxPoint x="462.5" y="400" as="targetPoint" />
@@ -126,10 +126,10 @@
           <mxGeometry x="141" y="602" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpwW5qXaEt8gaFz2CYJv-21" value="记录用户参与活动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="330" y="445" width="120" height="30" as="geometry" />
+          <mxGeometry x="330" y="370" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpwW5qXaEt8gaFz2CYJv-22" value="找到菜品数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="540" y="500" width="100" height="30" as="geometry" />
+          <mxGeometry x="540" y="400" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OuqrxKQaybof3YjLNSuo-2" value="活动" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
           <mxGeometry x="280" y="90" width="40" height="590" as="geometry" />
