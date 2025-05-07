@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-14" value="用户登录之后，通过界面控制类转到菜品界面" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="TSPQURcAyzKtk6zALZ9D-14" value="用户登录之后，&lt;div&gt;通过界面控制类转到后台界面，&lt;/div&gt;&lt;div&gt;请求增删改查菜品&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="0.1385" y="7" width="80" relative="1" as="geometry">
             <mxPoint x="52" y="157" as="sourcePoint" />
             <mxPoint x="312" y="157" as="targetPoint" />
