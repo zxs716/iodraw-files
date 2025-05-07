@@ -41,7 +41,7 @@
             <mxPoint x="550" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-10" value="请求查看菜品首页" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="TSPQURcAyzKtk6zALZ9D-4" edge="1">
+        <mxCell id="TSPQURcAyzKtk6zALZ9D-10" value="提交菜品数据" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="TSPQURcAyzKtk6zALZ9D-4" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="310" y="180" as="sourcePoint" />
             <mxPoint x="390" y="180" as="targetPoint" />
