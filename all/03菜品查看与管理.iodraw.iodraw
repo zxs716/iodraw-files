@@ -10,6 +10,9 @@
         <mxCell id="Z1v-yIIA0KOZgj2gGBPi-2" value="界面控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="70" width="70" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Z1v-yIIA0KOZgj2gGBPi-3" value="界面控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="70" width="70" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
