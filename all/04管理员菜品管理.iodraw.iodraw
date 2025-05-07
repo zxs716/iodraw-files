@@ -25,16 +25,6 @@
         <mxCell id="TSPQURcAyzKtk6zALZ9D-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="TSPQURcAyzKtk6zALZ9D-6" vertex="1">
           <mxGeometry x="45" y="120" width="10" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-8" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-0.4605" y="-180" width="80" relative="1" as="geometry">
-            <mxPoint x="50" y="449.58" as="sourcePoint" />
-            <mxPoint x="309.5000000000002" y="449.58" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="180" y="449.58" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TSPQURcAyzKtk6zALZ9D-9" value="更新菜品信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="TSPQURcAyzKtk6zALZ9D-6" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="470" y="220" as="sourcePoint" />
@@ -55,15 +45,6 @@
               <mxPoint x="218.39999999999998" y="632" />
             </Array>
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-12" value="显示结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="TSPQURcAyzKtk6zALZ9D-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305" y="380" as="sourcePoint" />
-            <mxPoint x="70" y="380" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="220" y="380" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSPQURcAyzKtk6zALZ9D-13" value="操作成功提示" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="TSPQURcAyzKtk6zALZ9D-5" edge="1">
@@ -123,12 +104,6 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-19" value="点击菜品所属区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="110" y="418" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-20" value="显示结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="141" y="602" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TSPQURcAyzKtk6zALZ9D-21" value="请求查看所点击区域的&lt;div&gt;菜品的详细信息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="440" width="140" height="40" as="geometry" />
