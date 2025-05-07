@@ -186,6 +186,9 @@
         <mxCell id="vSmL9gGQOrScNIRvaIZG-24" value="返回支付成功信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="615" y="585" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vSmL9gGQOrScNIRvaIZG-25" value="向用户发送支付成功和订单信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="775" y="748" width="190" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
