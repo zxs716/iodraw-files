@@ -66,7 +66,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-13" value="整合菜品信息&lt;div&gt;根据分类给出菜品简述信息&lt;/div&gt;&lt;div&gt;菜品图片+价格+销量&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="TSPQURcAyzKtk6zALZ9D-5" edge="1">
+        <mxCell id="TSPQURcAyzKtk6zALZ9D-13" value="操作成功提示" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="TSPQURcAyzKtk6zALZ9D-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="320" as="sourcePoint" />
             <mxPoint x="310" y="320" as="targetPoint" />
@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EL0xKNSro-997KzHAm8l-2" value="操作成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="535" y="228" width="70" height="30" as="geometry" />
+          <mxGeometry x="550" y="228" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
