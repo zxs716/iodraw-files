@@ -52,7 +52,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpwW5qXaEt8gaFz2CYJv-12" value="显示结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="LpwW5qXaEt8gaFz2CYJv-12" value="显示结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1" source="LpwW5qXaEt8gaFz2CYJv-7">
           <mxGeometry x="-0.4912" relative="1" as="geometry">
             <mxPoint x="725.5" y="490" as="sourcePoint" />
             <mxPoint x="470" y="490" as="targetPoint" />
