@@ -153,8 +153,8 @@
         <mxCell id="WKtNxQxadM_i_Bvc41IB-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="820" y="210" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KlLIyP9SinqZwUYv9_CD-1" value="Control Object" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="401" y="37" width="70" height="80" as="geometry" />
+        <mxCell id="KlLIyP9SinqZwUYv9_CD-1" value="注册" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="17" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
