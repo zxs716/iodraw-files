@@ -84,16 +84,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="47_OZg_B2F10djEoblvZ-17" value="给出菜品的详细信息和评价" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-0.05" y="-10" relative="1" as="geometry">
-            <mxPoint x="458" y="598" as="sourcePoint" />
-            <mxPoint x="298" y="598" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="408.5" y="598" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="47_OZg_B2F10djEoblvZ-18" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1" target="vSmL9gGQOrScNIRvaIZG-21">
           <mxGeometry x="-0.0213" y="70" relative="1" as="geometry">
             <mxPoint x="755" y="610" as="sourcePoint" />
@@ -106,9 +96,6 @@
         </mxCell>
         <mxCell id="47_OZg_B2F10djEoblvZ-19" value="提交购物车订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="111" y="308" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="47_OZg_B2F10djEoblvZ-20" value="显示结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="150" y="740" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vSmL9gGQOrScNIRvaIZG-1" value="购物车" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
           <mxGeometry x="450" y="80" width="40" height="480" as="geometry" />
