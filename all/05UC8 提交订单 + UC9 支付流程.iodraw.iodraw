@@ -126,7 +126,7 @@
           <mxGeometry x="15" y="70" width="10" height="250" as="geometry" />
         </mxCell>
         <mxCell id="vSmL9gGQOrScNIRvaIZG-2" value="支付" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
-          <mxGeometry x="590" y="80" width="40" height="300" as="geometry" />
+          <mxGeometry x="590" y="80" width="40" height="620" as="geometry" />
         </mxCell>
         <mxCell id="vSmL9gGQOrScNIRvaIZG-4" value="第三方支付接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
           <mxGeometry x="700" y="80" width="100" height="710" as="geometry" />
