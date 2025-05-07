@@ -28,7 +28,7 @@
         <mxCell id="47_OZg_B2F10djEoblvZ-8" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.4605" y="-180" width="80" relative="1" as="geometry">
             <mxPoint x="40" y="370" as="sourcePoint" />
-            <mxPoint x="299.5000000000002" y="370" as="targetPoint" />
+            <mxPoint x="300" y="370" as="targetPoint" />
             <Array as="points">
               <mxPoint x="170" y="370" />
             </Array>
@@ -114,8 +114,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="47_OZg_B2F10djEoblvZ-19" value="点击菜品所属区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="100" y="290" width="120" height="30" as="geometry" />
+        <mxCell id="47_OZg_B2F10djEoblvZ-19" value="提交购物车订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="105" y="330" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="47_OZg_B2F10djEoblvZ-20" value="显示结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="131" y="592" width="70" height="30" as="geometry" />
