@@ -1,142 +1,142 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
-  <diagram id="_zUbLHdZkrUfJMJ35_7L" name="第 1 页">
-    <mxGraphModel dx="1213" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="第 1 页" id="mfSF9tqJPLJq0TIqcRxP">
+    <mxGraphModel dx="1213" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="40" y="90" width="20" height="720" as="geometry" />
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="20" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-2" value="界面控制" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
-          <mxGeometry x="270" y="90" width="80" height="710" as="geometry" />
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-2" value="界面控制" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="80" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="TSPQURcAyzKtk6zALZ9D-2">
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="yuP2jkuw-AvTrlEMPFNv-2">
           <mxGeometry x="35" y="58" width="10" height="508" as="geometry" />
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-4" value="界面控制接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
-          <mxGeometry x="420" y="90" width="100" height="710" as="geometry" />
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-4" value="界面控制接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
+          <mxGeometry x="410" y="80" width="100" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="TSPQURcAyzKtk6zALZ9D-4">
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="yuP2jkuw-AvTrlEMPFNv-4">
           <mxGeometry x="45" y="80" width="10" height="462" as="geometry" />
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-6" value="数据库接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
-          <mxGeometry x="660" y="90" width="100" height="700" as="geometry" />
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-6" value="数据库接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
+          <mxGeometry x="650" y="80" width="100" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="TSPQURcAyzKtk6zALZ9D-6">
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="yuP2jkuw-AvTrlEMPFNv-6">
           <mxGeometry x="45" y="120" width="10" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-8" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-8" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.4605" y="-180" width="80" relative="1" as="geometry">
-            <mxPoint x="50" y="449.58" as="sourcePoint" />
-            <mxPoint x="309.5000000000002" y="449.58" as="targetPoint" />
+            <mxPoint x="40" y="439.58" as="sourcePoint" />
+            <mxPoint x="299.5000000000002" y="439.58" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="449.58" />
+              <mxPoint x="170" y="439.58" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-9" value="找到菜品数据" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="TSPQURcAyzKtk6zALZ9D-6">
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-9" value="找到菜品数据" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="yuP2jkuw-AvTrlEMPFNv-6">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="470" y="220" as="sourcePoint" />
-            <mxPoint x="550" y="220" as="targetPoint" />
+            <mxPoint x="460" y="210" as="sourcePoint" />
+            <mxPoint x="540" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-10" value="请求查看菜品首页" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="TSPQURcAyzKtk6zALZ9D-4">
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-10" value="请求查看菜品首页" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="yuP2jkuw-AvTrlEMPFNv-4">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="310" y="180" as="sourcePoint" />
-            <mxPoint x="390" y="180" as="targetPoint" />
+            <mxPoint x="300" y="170" as="sourcePoint" />
+            <mxPoint x="380" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-11" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-11" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.4873" y="140" relative="1" as="geometry">
-            <mxPoint x="303.4" y="632" as="sourcePoint" />
-            <mxPoint x="47.998571428571445" y="632" as="targetPoint" />
+            <mxPoint x="293.4" y="622" as="sourcePoint" />
+            <mxPoint x="37.998571428571445" y="622" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="218.39999999999998" y="632" />
+              <mxPoint x="208.39999999999998" y="622" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-12" value="显示结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="TSPQURcAyzKtk6zALZ9D-1">
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-12" value="显示结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="yuP2jkuw-AvTrlEMPFNv-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305" y="380" as="sourcePoint" />
-            <mxPoint x="70" y="380" as="targetPoint" />
+            <mxPoint x="295" y="370" as="sourcePoint" />
+            <mxPoint x="60" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="380" />
+              <mxPoint x="210" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-13" value="整合菜品信息&lt;div&gt;根据分类给出菜品简述信息&lt;/div&gt;&lt;div&gt;菜品图片+价格+销量&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="TSPQURcAyzKtk6zALZ9D-5">
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-13" value="整合菜品信息&lt;div&gt;根据分类给出菜品简述信息&lt;/div&gt;&lt;div&gt;菜品图片+价格+销量&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="yuP2jkuw-AvTrlEMPFNv-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="320" as="sourcePoint" />
-            <mxPoint x="310" y="320" as="targetPoint" />
+            <mxPoint x="450" y="310" as="sourcePoint" />
+            <mxPoint x="300" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="320" />
+              <mxPoint x="410" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-14" value="用户登录之后，通过界面控制类转到菜品界面" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-14" value="用户登录之后，通过界面控制类转到菜品界面" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="52" y="157" as="sourcePoint" />
-            <mxPoint x="312" y="157" as="targetPoint" />
+            <mxPoint x="42" y="147" as="sourcePoint" />
+            <mxPoint x="302" y="147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-15" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-15" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.4605" y="-180" width="80" relative="1" as="geometry">
-            <mxPoint x="480" y="530" as="sourcePoint" />
-            <mxPoint x="700" y="530" as="targetPoint" />
+            <mxPoint x="470" y="520" as="sourcePoint" />
+            <mxPoint x="690" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="610" y="530" />
-              <mxPoint x="650" y="531" />
-              <mxPoint x="680" y="531" />
+              <mxPoint x="600" y="520" />
+              <mxPoint x="640" y="521" />
+              <mxPoint x="670" y="521" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-16" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="TSPQURcAyzKtk6zALZ9D-5">
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-16" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="yuP2jkuw-AvTrlEMPFNv-5">
           <mxGeometry x="-0.4605" y="-180" width="80" relative="1" as="geometry">
-            <mxPoint x="320" y="490" as="sourcePoint" />
-            <mxPoint x="549.5000000000002" y="490" as="targetPoint" />
+            <mxPoint x="310" y="480" as="sourcePoint" />
+            <mxPoint x="539.5000000000002" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="490" />
+              <mxPoint x="410" y="480" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-17" value="给出菜品的详细信息和评价" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-17" value="给出菜品的详细信息和评价" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.05" y="-10" relative="1" as="geometry">
-            <mxPoint x="468" y="608" as="sourcePoint" />
-            <mxPoint x="308" y="608" as="targetPoint" />
+            <mxPoint x="458" y="598" as="sourcePoint" />
+            <mxPoint x="298" y="598" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="418.5" y="608" />
+              <mxPoint x="408.5" y="598" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-18" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-18" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0213" y="70" relative="1" as="geometry">
-            <mxPoint x="707.5" y="580" as="sourcePoint" />
-            <mxPoint x="472.5" y="580" as="targetPoint" />
+            <mxPoint x="697.5" y="570" as="sourcePoint" />
+            <mxPoint x="462.5" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="622.5" y="580" />
+              <mxPoint x="612.5" y="570" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-19" value="点击菜品所属区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="418" width="120" height="30" as="geometry" />
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-19" value="点击菜品所属区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="408" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-20" value="显示结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="141" y="602" width="70" height="30" as="geometry" />
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-20" value="显示结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="131" y="592" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-21" value="请求查看所点击区域的&lt;div&gt;菜品的详细信息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="440" width="140" height="40" as="geometry" />
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-21" value="请求查看所点击区域的&lt;div&gt;菜品的详细信息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="430" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-22" value="找到菜品数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="500" width="100" height="30" as="geometry" />
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-22" value="找到菜品数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="490" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TSPQURcAyzKtk6zALZ9D-23" value="返回菜品信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="550" width="100" height="30" as="geometry" />
+        <mxCell id="yuP2jkuw-AvTrlEMPFNv-23" value="返回菜品信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="540" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
