@@ -187,6 +187,12 @@
         <mxCell id="vSmL9gGQOrScNIRvaIZG-19" value="返回订单号给系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="870" y="460" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vSmL9gGQOrScNIRvaIZG-20" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="47_OZg_B2F10djEoblvZ-5">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="490" y="690" as="sourcePoint" />
+            <mxPoint x="570" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
