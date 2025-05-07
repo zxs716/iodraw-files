@@ -148,6 +148,9 @@
             <mxPoint x="575" y="-39" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sVjEzyKEt1WeC6nHixEr-42" value="抽象工厂" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="363" y="-452" width="66" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
