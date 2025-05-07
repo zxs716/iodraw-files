@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="47_OZg_B2F10djEoblvZ-14" value="用户登录之后，通过界面控制类转到菜品界面" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="47_OZg_B2F10djEoblvZ-14" value="查看活动" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="42" y="147" as="sourcePoint" />
             <mxPoint x="302" y="147" as="targetPoint" />
