@@ -76,9 +76,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TSPQURcAyzKtk6zALZ9D-14" value="用户登录之后，通过界面控制类转到菜品界面" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
+          <mxGeometry x="0.1385" y="7" width="80" relative="1" as="geometry">
             <mxPoint x="52" y="157" as="sourcePoint" />
             <mxPoint x="312" y="157" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TSPQURcAyzKtk6zALZ9D-15" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
