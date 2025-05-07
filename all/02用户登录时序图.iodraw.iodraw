@@ -95,16 +95,13 @@
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-29" value="登录成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="145" y="318" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5YFd7kFeZKF1k2vPxbTb-30" value="选择" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="-55" y="210" width="1000" height="370" as="geometry" />
-        </mxCell>
         <mxCell id="5YFd7kFeZKF1k2vPxbTb-31" value="[注册过且&lt;div&gt;输入的账号+&lt;span style=&quot;background-color: initial;&quot;&gt;密码&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;正确]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-50" y="233" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5YFd7kFeZKF1k2vPxbTb-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" target="5YFd7kFeZKF1k2vPxbTb-30" edge="1">
+        <mxCell id="5YFd7kFeZKF1k2vPxbTb-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-50" y="400" as="sourcePoint" />
-            <mxPoint x="190" y="510" as="targetPoint" />
+            <mxPoint x="945" y="400.0505050505051" as="targetPoint" />
             <Array as="points">
               <mxPoint x="190" y="400" />
               <mxPoint x="940" y="400" />
