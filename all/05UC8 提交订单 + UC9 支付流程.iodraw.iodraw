@@ -124,7 +124,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="47_OZg_B2F10djEoblvZ-19" value="点击菜品所属区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="100" y="408" width="120" height="30" as="geometry" />
+          <mxGeometry x="100" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="47_OZg_B2F10djEoblvZ-20" value="显示结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="131" y="592" width="70" height="30" as="geometry" />
