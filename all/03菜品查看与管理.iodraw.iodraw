@@ -61,7 +61,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z1v-yIIA0KOZgj2gGBPi-23" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="Z1v-yIIA0KOZgj2gGBPi-19">
+        <mxCell id="Z1v-yIIA0KOZgj2gGBPi-23" value="整合菜品信息&lt;div&gt;根据分类给出菜品简述信息&lt;/div&gt;&lt;div&gt;菜品图片+价格+销量&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="Z1v-yIIA0KOZgj2gGBPi-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="310" as="sourcePoint" />
             <mxPoint x="300" y="310" as="targetPoint" />
