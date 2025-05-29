@@ -17,10 +17,10 @@
           <mxGeometry x="74" y="292" width="75" height="47" as="geometry" />
         </mxCell>
         <mxCell id="8MWHMXJ88zW_qAuEPDfL-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;头像&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="168" y="295" width="73" height="47" as="geometry" />
+          <mxGeometry x="162" y="295" width="73" height="47" as="geometry" />
         </mxCell>
         <mxCell id="8MWHMXJ88zW_qAuEPDfL-8" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;手机号&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="232" width="75" height="39" as="geometry" />
+          <mxGeometry x="257" y="298" width="73" height="43" as="geometry" />
         </mxCell>
         <mxCell id="8MWHMXJ88zW_qAuEPDfL-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;邮箱&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="403" y="234" width="72" height="49" as="geometry" />
@@ -58,7 +58,7 @@
             <mxPoint x="206" y="191" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8MWHMXJ88zW_qAuEPDfL-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="8MWHMXJ88zW_qAuEPDfL-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.436;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8MWHMXJ88zW_qAuEPDfL-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="208" y="294" as="sourcePoint" />
             <mxPoint x="296" y="174" as="targetPoint" />
