@@ -17,7 +17,7 @@
           <mxGeometry x="127" y="238" width="65" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8MWHMXJ88zW_qAuEPDfL-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;头像&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="211" y="224" width="120" height="80" as="geometry" />
+          <mxGeometry x="211" y="224" width="73" height="47" as="geometry" />
         </mxCell>
         <mxCell id="8MWHMXJ88zW_qAuEPDfL-8" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;手机号&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="56" y="431" width="120" height="80" as="geometry" />
