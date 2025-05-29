@@ -11,9 +11,9 @@
           <mxGeometry x="16" y="215" width="74" height="47" as="geometry" />
         </mxCell>
         <mxCell id="8MWHMXJ88zW_qAuEPDfL-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-68" y="214" width="75" height="46" as="geometry" />
+          <mxGeometry x="-131" y="218" width="75" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="8MWHMXJ88zW_qAuEPDfL-5" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;昵称&lt;/span&gt;&lt;/p&gt;" style="%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dnone%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0.142%3BentryY%3D1.017%3BentryDx%3D0%3BentryDy%3D0%3BentryPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2263%22%20y%3D%22221%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22107%22%20y%3D%22152%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" vertex="1" parent="1">
+        <mxCell id="8MWHMXJ88zW_qAuEPDfL-5" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;昵称&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="181" y="221" width="65" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8MWHMXJ88zW_qAuEPDfL-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;头像&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
