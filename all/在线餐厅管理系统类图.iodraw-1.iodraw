@@ -29,7 +29,7 @@
         <mxCell id="IFsAKkE-nrqN_nj0yOhs-4" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="IFsAKkE-nrqN_nj0yOhs-0" vertex="1">
           <mxGeometry y="100" width="150" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="IFsAKkE-nrqN_nj0yOhs-5" value="+ 管理菜品（）&#xa;+ 管理支付（）&#xa;+ 管理活动（）&#xa;+ 管理订单（）&#xa;+ 推荐菜品（）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IFsAKkE-nrqN_nj0yOhs-0" vertex="1">
+        <mxCell id="IFsAKkE-nrqN_nj0yOhs-5" value="+ 管理汽车（）&#xa;+ 管理支付（）&#xa;+ 管理活动（）&#xa;+ 管理订单（）&#xa;+ 推荐菜品（）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IFsAKkE-nrqN_nj0yOhs-0" vertex="1">
           <mxGeometry y="108" width="150" height="92" as="geometry" />
         </mxCell>
         <mxCell id="IFsAKkE-nrqN_nj0yOhs-6" value="VIP用户" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
