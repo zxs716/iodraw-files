@@ -7,14 +7,8 @@
         <mxCell id="8oW2OGCTH-iRmoO3OeYb-2" value="汽车电商平台系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8oW2OGCTH-iRmoO3OeYb-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8oW2OGCTH-iRmoO3OeYb-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="380" as="sourcePoint" />
-            <mxPoint x="410" y="470" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="430" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="8oW2OGCTH-iRmoO3OeYb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
