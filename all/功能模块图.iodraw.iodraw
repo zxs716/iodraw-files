@@ -26,7 +26,7 @@
           <mxGeometry x="240" y="570" width="30" height="150" as="geometry" />
         </mxCell>
         <mxCell id="8oW2OGCTH-iRmoO3OeYb-13" value="店铺管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="570" width="90" height="140" as="geometry" />
+          <mxGeometry x="290" y="570" width="40" height="150" as="geometry" />
         </mxCell>
         <mxCell id="8oW2OGCTH-iRmoO3OeYb-14" value="活动管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="570" width="90" height="140" as="geometry" />
