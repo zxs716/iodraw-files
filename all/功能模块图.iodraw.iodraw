@@ -26,7 +26,10 @@
           <mxGeometry x="310" y="570" width="70" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8oW2OGCTH-iRmoO3OeYb-13" value="店铺管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="585" width="90" height="125" as="geometry" />
+          <mxGeometry x="400" y="570" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8oW2OGCTH-iRmoO3OeYb-14" value="店铺管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="580" width="90" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
