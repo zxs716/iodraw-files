@@ -80,13 +80,13 @@
           <mxGeometry x="625" y="620" width="30" height="150" as="geometry" />
         </mxCell>
         <mxCell id="8oW2OGCTH-iRmoO3OeYb-29" value="汽车管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="570" width="30" height="150" as="geometry" />
+          <mxGeometry x="660" y="620" width="30" height="150" as="geometry" />
         </mxCell>
         <mxCell id="8oW2OGCTH-iRmoO3OeYb-31" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="570" width="30" height="150" as="geometry" />
+          <mxGeometry x="700" y="620" width="30" height="150" as="geometry" />
         </mxCell>
         <mxCell id="8oW2OGCTH-iRmoO3OeYb-32" value="活动管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="570" width="30" height="150" as="geometry" />
+          <mxGeometry x="740" y="620" width="30" height="150" as="geometry" />
         </mxCell>
         <mxCell id="8oW2OGCTH-iRmoO3OeYb-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -140,6 +140,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="114.71" y="620" as="sourcePoint" />
             <mxPoint x="114.71" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8oW2OGCTH-iRmoO3OeYb-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="124.66" y="580" as="sourcePoint" />
+            <mxPoint x="124.66" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
